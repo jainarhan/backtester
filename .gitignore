@@ -1,0 +1,15 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scratch / unused folders
+no use /
+no use/
+no use*
+
+# Data directory (downloaded via download50.py)
+data/
+
+# Operating system / environment files
+.DS_Store
